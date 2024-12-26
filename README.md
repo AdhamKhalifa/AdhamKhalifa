@@ -5,7 +5,6 @@
 - I'm currently working on: _Full-stack development & AI_
 - I'm currently learning: _Web3, Cloud Engineering (AWS), Go_
 - Ask me about _Machine Learning, Back-end dev, Front-end dev,CI/CD, Docker, Kubernetes_
-- Fun Fact: I grew up in Egypt, but I've never been to the pyramids!
 - Let's get in touch if you want to work on a project.
 
   <br/>
